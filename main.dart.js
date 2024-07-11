@@ -75968,7 +75968,7 @@ m=A.pn("I'am Ahmed Nawaz",1,A.amb().$3$color$fontSize$fontWeight(g.a.e,m,B.u))
 l=A.pn("Mobile App Developer from Pakistan",1,A.eG().$3$color$fontSize$fontWeight(g.a.e,16,B.u))
 k=d?16:20
 k=A.ey(f,f,A.amb().$2$color$fontSize(g.a.e,k),"{ ")
-j=A.ey(f,f,A.eG().$4$color$fontSize$fontWeight$height(g.a.e,16,B.u,1.5),"Developing software's since 2017 in multiple languages and frameworks like Flutter, Swift, React, Java, Python and C")
+j=A.ey(f,f,A.eG().$4$color$fontSize$fontWeight$height(g.a.e,16,B.u,1.5),"Developing software since 2017 in multiple languages and frameworks like Flutter, Swift, React, Java, Python and C")
 i=d?16:20
 h=t.p
 return A.ff(B.b1,A.b([e,A.fJ(A.j6(A.br(f,A.cY(A.b([q,n,m,l,B.jO,A.yx(f,f,B.ba,f,f,!0,f,A.ey(A.b([k,j,A.ey(f,f,A.amb().$2$color$fontSize(g.a.e,i)," }")],t.VO),f,f,f),B.aM,f,f,B.a0,B.a6)],h),B.aC,B.I,B.w),B.l,f,f,new A.bL(p,f,o,r,f,f,B.V),f,b,f,B.eQ,f,f,c),s,f,!0),B.ai,f,new A.adi(g),new A.adj(g),f,!0)],h),B.T,B.aI)},
