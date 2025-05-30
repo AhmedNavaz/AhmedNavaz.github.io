@@ -73096,7 +73096,7 @@ J(a){var s,r=this,q=null,p=A.cc(a,q,t.w).w.a,o=p.a,n=o<768,m=n?22:34,l=n?10:15,k
 if(n)o=A.eS(A.ca(A.aro(A.d2(A.b([B.jj,r.NG(p,m,l),A.ca(q,i,q),r.MG(p,m,l),A.ca(q,i,q),r.Lc(p,m,l),A.ca(q,i,q),r.Ns(p,m,l),B.jj],k),B.H,B.E,B.w),q,B.as,q,q,B.ak),j,o*0.9),q,q)
 else{s=r.a.c
 o=A.a4P(q,A.j8(A.ca(A.d2(A.b([A.e7(A.b([A.d2(A.b([r.NG(p,m,l),A.ca(q,i,q),r.Ns(p,m,l)],k),B.H,B.E,B.w),B.ME,r.MG(p,m,l)],k),B.af,B.bh,B.w,q),r.Lc(p,m,l)],k),B.H,B.bh,B.w),j*0.76,o*0.41),s,q,!0),q,q,q,o*0.08,q,q)}return o},
-Lc(a,b,c){var s,r,q,p,o,n,m=this,l=null,k=a.b,j=a.a<768?k*0.24:k*0.23
+Lc(a,b,c){var s,r,q,p,o,n,m=this,l=null,k=a.b,j=a.a<768?k*0.32:k*0.23
 k=A.bD(l,l,B.m,m.a.e,l,l,l,j,l,l,l,l,l)
 s=m.z
 if(s===$){r=t.Ni
@@ -73111,7 +73111,7 @@ n=t.p
 return A.fl(B.aU,A.b([k,A.fK(A.j8(A.bD(l,A.d2(A.b([A.cK("Bringing Ideas to Life",l,l,l,l,l,l,l,A.E1().$3$color$fontSize$fontWeight(q,b,B.aM),l,l,l),A.ca(l,c,l),A.e7(A.b([A.hP(A.d2(A.b([A.cK("Sakun: Sleep Stories & Music",l,l,l,l,l,l,l,A.eM().$3$color$fontSize$fontWeight(m.a.e,16,B.aM),l,l,l),A.pA(u.Y,1,A.eM().$3$color$fontSize$fontWeight(m.a.e,16,B.u))],n),B.af,B.E,B.w),1),A.ez(!1,l,!0,A.Gz(B.lx,m.a.e,20),l,!0,l,l,l,l,l,l,l,l,l,new A.aeS(),l,l,l,l,l,l,l)],n),B.bL,B.bh,B.w,l),B.wJ,A.e7(A.b([A.hP(A.d2(A.b([A.cK("tapn: A new way to socialize on trending topics.",l,l,l,l,l,l,l,A.eM().$3$color$fontSize$fontWeight(m.a.e,16,B.aM),l,l,l),A.pA("https://play.google.com/store/apps/details?id=com.warmmatch.tap_napp",1,A.eM().$3$color$fontSize$fontWeight(m.a.e,16,B.u))],n),B.af,B.E,B.w),1),A.ez(!1,l,!0,A.Gz(B.lx,m.a.e,20),l,!0,l,l,l,l,l,l,l,l,l,new A.aeT(),l,l,l,l,l,l,l)],n),B.bL,B.bh,B.w,l)],n),B.af,B.E,B.w),B.m,l,l,new A.bR(p,l,o,r,l,l,B.S),l,j,l,B.eG,l,l,l),s,l,!0),B.al,l,new A.aeU(m),new A.aeV(m),l,!0)],n),B.L,B.aH)},
 MG(a,b,c){var s,r,q,p,o,n,m,l=this,k=null,j=a.a,i=j<768,h=i?j*0.9:j*0.2
 j=a.b
-s=i?j*0.52:j*0.515
+s=i?j*0.62:j*0.515
 j=A.bD(k,k,B.m,l.a.e,k,k,k,s,k,k,k,k,h)
 r=l.r
 if(r===$){q=t.Ni
@@ -73124,27 +73124,28 @@ p=p.e
 n=A.v3(p,2)
 m=t.p
 return A.fl(B.aU,A.b([j,A.fK(A.j8(A.bD(k,A.d2(A.b([A.cK("Experience",k,k,k,k,k,k,k,A.E1().$3$color$fontSize$fontWeight(p,b,B.aM),k,k,k),A.ca(k,c,k),l.tV("Full-Stack Developer","PodcastDB, USA","Sep 2024 - Present",!1,!0),l.tV("Frontend Developer","Doobi, Bahrain","Jan 2024 - Present",!1,!0),l.tV("Flutter Developer","Codmen, Pakistan","Aug 2022 - December 2023",!0,!0),l.tV("Software/Mobile Developer","Fiverr/Upwork, Self Employed","Jul 2019 - Present",!0,!1)],m),B.af,B.E,B.w),B.m,k,k,new A.bR(o,k,n,q,k,k,B.S),k,s,k,B.eG,k,k,h),r,k,!0),B.al,k,new A.aeY(l),new A.aeZ(l),k,!0)],m),B.L,B.aH)},
-Ns(a,b,c){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=a.a,g=h<768,f=g?h*0.9:h*0.2
-h=a.b
-s=g?h*0.19:h*0.2
-h=A.bD(i,i,B.m,j.a.e,i,i,i,s,i,i,i,i,f)
-r=j.x
+Ns(a,b,c){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=a.a,f=g<768,e=f?g*0.9:g*0.2
+g=a.b
+s=f?g*0.25:g*0.2
+g=A.bD(h,h,B.m,i.a.e,h,h,h,s,h,h,h,h,e)
+r=i.x
 if(r===$){q=t.Ni
-p=A.bO(B.br,j.gym(),i)
-j.x!==$&&A.a1()
-r=j.x=new A.av(p,new A.ad(B.i,B.Jj,q),q.h("av<ap.T>"))}q=A.d8(2)
-p=j.a
+p=A.bO(B.br,i.gym(),h)
+i.x!==$&&A.a1()
+r=i.x=new A.av(p,new A.ad(B.i,B.Jj,q),q.h("av<ap.T>"))}q=A.d8(2)
+p=i.a
 o=p.d
 p=p.e
 n=A.v3(p,2)
-p=A.cK("Hobbies",i,i,i,i,i,i,i,A.E1().$3$color$fontSize$fontWeight(p,b,B.aM),i,i,i)
-m=A.ca(i,c,i)
-l=j.Q
-k=A.a5(l).h("am<1,n2>")
-l=A.a0(new A.am(l,new A.af1(j,a),k),k.h("aD.E"))
-k=t.p
-return A.fl(B.aU,A.b([h,A.fK(A.j8(A.bD(i,A.d2(A.b([p,m,new A.LJ(5,10,l,i)],k),B.af,B.E,B.w),B.m,i,i,new A.bR(o,i,n,q,i,i,B.S),i,s,i,B.eG,i,i,f),r,i,!0),B.al,i,new A.af2(j),new A.af3(j),i,!0)],k),B.L,B.aH)},
-NG(a,b,a0){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=a.a,f=g<768,e=f?g*0.9:g*0.2,d=a.b,c=f?d*0.275:d*0.3
+p=A.cK("Hobbies",h,h,h,h,h,h,h,A.E1().$3$color$fontSize$fontWeight(p,b,B.aM),h,h,h)
+m=A.ca(h,c,h)
+l=f?0:10
+k=i.Q
+j=A.a5(k).h("am<1,n2>")
+k=A.a0(new A.am(k,new A.af1(i,a),j),j.h("aD.E"))
+j=t.p
+return A.fl(B.aU,A.b([g,A.fK(A.j8(A.bD(h,A.d2(A.b([p,m,new A.LJ(5,l,k,h)],j),B.af,B.E,B.w),B.m,h,h,new A.bR(o,h,n,q,h,h,B.S),h,s,h,B.eG,h,h,e),r,h,!0),B.al,h,new A.af2(i),new A.af3(i),h,!0)],j),B.L,B.aH)},
+NG(a,b,a0){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=a.a,f=g<768,e=f?g*0.9:g*0.2,d=a.b,c=f?d*0.34:d*0.3
 d=A.bD(h,h,B.m,i.a.e,h,h,h,c,h,h,h,h,e)
 s=i.e
 if(s===$){r=t.Ni
