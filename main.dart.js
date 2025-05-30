@@ -73123,7 +73123,7 @@ o=p.d
 p=p.e
 n=A.v3(p,2)
 m=t.p
-return A.fl(B.aU,A.b([j,A.fK(A.j8(A.bD(k,A.d2(A.b([A.cK("Experience",k,k,k,k,k,k,k,A.E1().$3$color$fontSize$fontWeight(p,b,B.aM),k,k,k),A.ca(k,c,k),l.tV("Frontend Developer","Doobi, Bahrain","Jan 2024 - Present",!1,!0),l.tV("Mobile Application Developer","Upwork, Freelancing","Jul 2023 - Present",!0,!0),l.tV("Flutter Developer","Codmen, Pakistan","Aug 2022 - December 2023",!0,!0),l.tV("Software Developer","Fiverr, Freelancing","Jul 2019 - July 2023",!0,!1)],m),B.af,B.E,B.w),B.m,k,k,new A.bR(o,k,n,q,k,k,B.S),k,s,k,B.eG,k,k,h),r,k,!0),B.al,k,new A.aeY(l),new A.aeZ(l),k,!0)],m),B.L,B.aH)},
+return A.fl(B.aU,A.b([j,A.fK(A.j8(A.bD(k,A.d2(A.b([A.cK("Experience",k,k,k,k,k,k,k,A.E1().$3$color$fontSize$fontWeight(p,b,B.aM),k,k,k),A.ca(k,c,k),l.tV("Full-Stack Developer","PodcastDB, USA","Sep 2024 - Present",!1,!0),l.tV("Frontend Developer","Doobi, Bahrain","Jan 2024 - Present",!1,!0),l.tV("Flutter Developer","Codmen, Pakistan","Aug 2022 - December 2023",!0,!0),l.tV("Software/Mobile Developer","Fiverr/Upwork, Self Employed","Jul 2019 - Present",!0,!1)],m),B.af,B.E,B.w),B.m,k,k,new A.bR(o,k,n,q,k,k,B.S),k,s,k,B.eG,k,k,h),r,k,!0),B.al,k,new A.aeY(l),new A.aeZ(l),k,!0)],m),B.L,B.aH)},
 Ns(a,b,c){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=a.a,g=h<768,f=g?h*0.9:h*0.2
 h=a.b
 s=g?h*0.19:h*0.2
